@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.8.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.25",
+    "karma": "^0.13.9",
+    "karma-mocha": "^0.2.0",
+    "mocha": "^2.2.5"
+  },
+  "devDependencies": {
+    "karma-mocha-reporter": "^1.1.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18"
+  }
+}
